@@ -13,7 +13,7 @@ La API tiene un endpoint de estado que permite comprobar que el servidor esta fu
 
 Requisitos:
 
-- Node.js 20 o superior.
+- Node.js (20 o superior).
 - npm.
 
 Pasos:
@@ -57,7 +57,7 @@ http://localhost:3000/api/estado
 
 ## Autores
 
-- [Paula Daniela Cubillos Araque] - [ Developer ]
+- [Paula Daniela Cubillos Araque] - [ Ingenieria de software 2]
 
 ## Flujo de trabajo Git
 
