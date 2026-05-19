@@ -93,3 +93,29 @@ La práctica usa una versión guiada de Git Flow:
 - `hotfix/readme-typo`: rama para una corrección menor.
 
 Los workflows de GitHub Actions crean y cierran issues automáticamente a medida que el estudiante avanza.
+
+## Cómo levantar la API
+
+Sigue estos pasos para ejecutar el proyecto en tu entorno local:
+Antes de comenzar, asegúrate de tener instalado:
+* **Node.js** (Versión 20 o superior)
+* **npm** 
+
+
+### Pasos para la instalación
+
+1. **Clonar el repositorio:**
+```bash
+git clone <https://github.com/paulaacc/GitFlowPractice-Taller.git>
+```
+
+2. **Instalar depedencias**
+```bash
+npm install
+```
+
+3. **Inicia el servidor**
+```bash
+npm start
+```
+Esta instrucción desplega el API localmente y posteriormente la consola arrojará la url, usualmente en el puerto http://localhost:3000.
