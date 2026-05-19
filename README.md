@@ -10,9 +10,10 @@ La API tiene un endpoint de estado que permite comprobar que el servidor esta fu
 
 ## Instalación
 
+
 Requisitos:
 
-- Node.js 20 o superior.
+- Node.js (20 o superior).
 - npm.
 
 Pasos:
@@ -26,6 +27,7 @@ npm install
 ## Uso
 
 Levantar el servidor local:
+
 
 ~~~bash
 npm start
@@ -55,7 +57,7 @@ http://localhost:3000/api/estado
 
 ## Autores
 
-- [Paula Daniela Cubillos Araque] - [ Developer ]
+- [Paula Daniela Cubillos Araque] - [ Ingenieria de software 2]
 
 ## Flujo de trabajo Git
 
